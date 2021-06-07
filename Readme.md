@@ -1,4 +1,4 @@
-# Georgia Restaurant
+# Cloth Store
 
 This is a code along in the [Sass Tutorial](https://www.udemy.com/course/sass-the-complete-sass-course-css-preprocessor/).<br>
 This project covers the basics of Sass.
